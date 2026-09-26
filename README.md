@@ -52,6 +52,10 @@ I believe personality should show in everything you do — which is why I spent 
   <a href="mailto:work.georgiajayy@gmail.com">
     <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+
+  <a href="https://www.youtube.com/@datawithgeorgiajayy">
+    <img src="https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -136,11 +140,9 @@ I believe personality should show in everything you do — which is why I spent 
 
 ## Selected Projects
 
-<a id="selected-projects"></a>
-
-| [![womens-football-dashboard](https://github-stats-extended.vercel.app/api/pin/?username=georgiajayy&repo=womens-football-dashboard&theme=default&bg_color=FFFFFF&title_color=0D0D0D&text_color=333333&icon_color=0D0D0D&border_color=0D0D0D)](https://github.com/georgiajayy/womens-football-dashboard) | [![track-recommender](https://github-stats-extended.vercel.app/api/pin/?username=georgiajayy&repo=track-recommender&theme=default&bg_color=FFFFFF&title_color=0D0D0D&text_color=333333&icon_color=0D0D0D&border_color=0D0D0D)](https://github.com/georgiajayy/track-recommender) | [![nine-nights](https://github-stats-extended.vercel.app/api/pin/?username=georgiajayy&repo=Nine-Nights-&theme=default&bg_color=FFFFFF&title_color=0D0D0D&text_color=333333&icon_color=0D0D0D&border_color=0D0D0D)](https://github.com/georgiajayy/Nine-Nights-) |
+| [![lionesses-euro2025](https://github-stats-extended.vercel.app/api/pin/?username=georgiajayy&repo=lionesses-euro2025&theme=default&bg_color=FFFFFF&title_color=0D0D0D&text_color=333333&icon_color=0D0D0D&border_color=0D0D0D)](https://github.com/georgiajayy/lionesses-euro2025) | [![track-recommender](https://github-stats-extended.vercel.app/api/pin/?username=georgiajayy&repo=track-recommender&theme=default&bg_color=FFFFFF&title_color=0D0D0D&text_color=333333&icon_color=0D0D0D&border_color=0D0D0D)](https://github.com/georgiajayy/track-recommender) | [![nine-nights](https://github-stats-extended.vercel.app/api/pin/?username=georgiajayy&repo=Nine-Nights-&theme=default&bg_color=FFFFFF&title_color=0D0D0D&text_color=333333&icon_color=0D0D0D&border_color=0D0D0D)](https://github.com/georgiajayy/Nine-Nights-) |
 | :---: | :---: | :---: |
-| **WOMEN'S FOOTBALL DASHBOARD** <br>*Python · pandas · StatsBomb · Streamlit* | **TRACK RECOMMENDER** <br>*Python · ML · FastAPI* | **NINE NIGHTS** <br>*Planned* |
+| **LIONESSES EURO 2025** <br>*Python · pandas · StatsBomb · Streamlit* <br>[Live dashboard](https://lionesses-euro2025.streamlit.app/) · [Watch the data story](https://youtu.be/RWfnlJrw5b4) | **TRACK RECOMMENDER** <br>*Python · ML · FastAPI* | **NINE NIGHTS** <br>*Planned* |
 
 ---
 

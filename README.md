@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.png" alt="Georgia Jayy" width="500">
+  <img src="assets/logo-v2.png" alt="Georgia Jayy" width="500">
 </p>
 
 <div align="center">

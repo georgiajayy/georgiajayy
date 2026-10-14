@@ -2,6 +2,10 @@
   <img src="assets/logo-v2.png" alt="Georgia Jayy" width="500">
 </p>
 
+<p align="center">
+  <img src="assets/banner.gif" alt="" width="450">
+</p>
+
 <div align="center">
 <table>
   <tr>

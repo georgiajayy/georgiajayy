@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 88 31" width="88" height="31" shape-rendering="crispEdges">
+  <rect width="88" height="31" fill="#2b0018"/>
+  <rect x="1" y="1" width="86" height="29" fill="none" stroke="#ff5fa2" stroke-width="1"/>
+  <rect x="3" y="3" width="25" height="25" fill="#ff5fa2"/>
+  <text x="15.5" y="21" text-anchor="middle" font-family="Courier New, monospace" font-size="16" font-weight="bold" fill="#2b0018">&lt;3</text>
+  <text x="58" y="14" text-anchor="middle" font-family="Courier New, monospace" font-size="9" font-weight="bold" fill="#fff0f6">USERNAME</text>
+  <text x="58" y="25" text-anchor="middle" font-family="Courier New, monospace" font-size="7" fill="#ff5fa2">on github<animate attributeName="fill" values="#ff5fa2;#fff0f6;#ff5fa2" dur="1s" repeatCount="indefinite"/></text>
+</svg>

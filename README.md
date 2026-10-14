@@ -1,5 +1,7 @@
 <p align="center">
+  <img src="assets/flag-jamaica.png" alt="Jamaica" height="20">
   <img src="https://img.shields.io/badge/PROFILE%20VIEWS-10K-000000?style=flat-square" alt="Profile views">
+  <img src="assets/flag-uk.png" alt="United Kingdom" height="20">
 </p>
 
 <p align="center">
@@ -8,11 +10,6 @@
 
 <p align="center">
   <img src="assets/banner.gif" alt="" width="450">
-</p>
-
-<p align="center">
-  <img src="assets/blinkie-jamaica.gif" alt="Jamaica" width="150" height="20">
-  <img src="assets/blinkie-ireland.gif" alt="Ireland" width="150" height="20">
 </p>
 
 <div align="center">

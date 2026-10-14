@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=georgiajayy&style=flat-square&color=000000&label=PROFILE+VIEWS&base=1000" alt="Profile views">
+</p>
+
+<p align="center">
   <img src="assets/logo-v2.png" alt="Georgia Jayy" width="500">
 </p>
 

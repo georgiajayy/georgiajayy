@@ -10,6 +10,11 @@
   <img src="assets/banner.gif" alt="" width="450">
 </p>
 
+<p align="center">
+  <img src="assets/blinkie-jamaica.gif" alt="Jamaica" width="150" height="20">
+  <img src="assets/blinkie-ireland.gif" alt="Ireland" width="150" height="20">
+</p>
+
 <div align="center">
 <table>
   <tr>

@@ -7,6 +7,8 @@
   <img src="assets/logo-v2.png" alt="Georgia Jayy" width="500">
 </p>
 
+<h3 align="center">𝖜𝖔𝖗𝖐𝖎𝖓𝖌 𝖜𝖎𝖙𝖍𝖎𝖓 𝖙𝖍𝖊 𝕮𝖗𝖊𝖆𝖙𝖎𝖛𝖊 𝕿𝖊𝖈𝖍 𝖘𝖊𝖈𝖙𝖔𝖗</h3>
+
 <p align="center">
   <img src="assets/banner.gif" alt="" width="450">
 </p>

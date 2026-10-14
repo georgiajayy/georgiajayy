@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=georgiajayy&style=flat-square&color=000000&label=PROFILE+VIEWS&base=1000" alt="Profile views">
+  <img src="https://img.shields.io/badge/PROFILE%20VIEWS-1000-000000?style=flat-square" alt="Profile views">
 </p>
 
 <p align="center">

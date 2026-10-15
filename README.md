@@ -1,7 +1,5 @@
 <p align="center">
-  <img src="assets/flag-jamaica.png" alt="Jamaica" height="20">
   <img src="https://img.shields.io/badge/PROFILE%20VIEWS-10K-000000?style=flat-square" alt="Profile views">
-  <img src="assets/flag-ireland.png" alt="Ireland" height="20">
 </p>
 
 <p align="center">

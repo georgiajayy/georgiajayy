@@ -6,7 +6,7 @@
   <img src="assets/logo-v2.png" alt="Georgia Jayy" width="500">
 </p>
 
-<p align="center">ℭ𝔯𝔢𝔞𝔱𝔦𝔳𝔢 𝔵 𝔗𝔢𝔠𝔥</p>
+ℑ'𝔪 𝔞 𝔇𝔞𝔱𝔞 𝔄𝔫𝔞𝔩𝔶𝔰𝔱 𝔞𝔫𝔡 𝔉𝔯𝔢𝔢𝔩𝔞𝔫𝔠𝔢 ℭ𝔯𝔢𝔞𝔱𝔦𝔳𝔢 𝔢𝔵𝔭𝔩𝔬𝔯𝔦𝔫𝔤 𝔱𝔥𝔢 𝔦𝔫𝔱𝔢𝔯𝔰𝔢𝔠𝔱𝔦𝔬𝔫 𝔬𝔣 𝔞𝔫𝔞𝔩𝔶𝔱𝔦𝔠𝔞𝔩 𝔱𝔥𝔦𝔫𝔨𝔦𝔫𝔤, 𝔱𝔢𝔠𝔥𝔫𝔬𝔩𝔬𝔤𝔶 𝔞𝔫𝔡 𝔠𝔯𝔢𝔞𝔱𝔦𝔳𝔢 𝔢𝔵𝔭𝔯𝔢𝔰𝔰𝔦𝔬𝔫. 
 
 <p align="center">
   <img src="assets/banner.gif" alt="" width="450">

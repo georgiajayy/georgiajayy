@@ -12,6 +12,8 @@
   <img src="assets/banner.gif" alt="" width="450">
 </p>
 
+<p align="center"> 𝔖𝔱𝔞𝔶 𝔠𝔲𝔯𝔦𝔬𝔲𝔰. 𝔖𝔱𝔞𝔶 𝔰𝔱𝔯𝔞𝔫𝔤𝔢. 𝔐𝔞𝔨𝔢 𝔰𝔬𝔪𝔢𝔱𝔥𝔦𝔫𝔤 𝔦𝔫𝔱𝔢𝔯𝔢𝔰𝔱𝔦𝔫𝔤.
+
 <div align="center">
 <table>
   <tr>

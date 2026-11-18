@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-I work in marketing, audience insight and digital media, with a background in development and research. I’m fascinated by how scenes that start on the margins end up shaping the mainstream. Media at UCL (Film Production), with creative instinct backed by data and code.
+I work in marketing, audience insight and digital media, with a background in development and research. I’m fascinated by how scenes that start on the margins end up shaping the mainstream. Media at UCL (Film Production), creative instinct backed by data and code.
 </p>
 
 <p align="center">

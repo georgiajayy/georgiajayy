@@ -18,6 +18,11 @@
 
 I work in marketing, audience insight and digital media, with a background in development and research. I'm interested in how people connect with brands, content and communities, and how scenes that start on the margins end up shaping the mainstream. I studied Media at UCL, specialising in Film Production, and I back up creative instinct with data and code because I like building things as much as thinking them.
 
+<p align="center">
+  <a href="https://open.spotify.com/playlist/7nrFdlWecvtBbLq6rrkNgd">
+    <img src="https://img.shields.io/badge/listen_to_the_coding_playlist-FF1493?style=for-the-badge&logo=spotify&logoColor=white" />
+  </a>
+</p>
 
 <div align="center">
 <table>

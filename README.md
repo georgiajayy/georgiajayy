@@ -6,7 +6,7 @@
   <img src="assets/logo-v2.png" alt="Georgia Jayy" width="500">
 </p>
 
-<p align="center"> ℑ'𝔪 𝔢𝔵𝔭𝔩𝔬𝔯𝔦𝔫𝔤 𝔱𝔥𝔢 𝔦𝔫𝔱𝔢𝔯𝔰𝔢𝔠𝔱𝔦𝔬𝔫 𝔬𝔣 𝔪𝔞𝔯𝔨𝔢𝔱𝔦𝔫𝔤, 𝔠𝔲𝔩𝔱𝔲𝔯𝔢, 𝔱𝔢𝔠𝔥𝔫𝔬𝔩𝔬𝔤𝔶 𝔞𝔫𝔡 𝔠𝔯𝔢𝔞𝔱𝔦𝔳𝔢 𝔢𝔵𝔭𝔯𝔢𝔰𝔰𝔦𝔬𝔫.
+<p align="center"> ℭ𝔬𝔩𝔩𝔢𝔠𝔱𝔦𝔫𝔤 𝔱𝔥𝔢 𝔴𝔢𝔦𝔯𝔡 𝔞𝔫𝔡 𝔱𝔥𝔢 𝔞𝔩𝔱𝔢𝔯𝔫𝔞𝔱𝔦𝔳𝔢. 𝔗𝔲𝔯𝔫𝔦𝔫𝔤 𝔦𝔱 𝔦𝔫𝔱𝔬 𝔰𝔱𝔯𝔞𝔱𝔢𝔤𝔶.
 
 <p align="center">
   <img src="assets/banner.gif" alt="" width="450">

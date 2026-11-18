@@ -7,6 +7,7 @@
 </p>
 
 <p align="center"> ℭ𝔬𝔩𝔩𝔢𝔠𝔱𝔦𝔫𝔤 𝔱𝔥𝔢 𝔴𝔢𝔦𝔯𝔡 𝔞𝔫𝔡 𝔱𝔥𝔢 𝔞𝔩𝔱𝔢𝔯𝔫𝔞𝔱𝔦𝔳𝔢. 𝔗𝔲𝔯𝔫𝔦𝔫𝔤 𝔦𝔱 𝔦𝔫𝔱𝔬 𝔰𝔱𝔯𝔞𝔱𝔢𝔤𝔶.
+Marketing, audience insight and digital media. I’m interested in how scenes from the margins shape the mainstream, and I back up creative instinct with data and code. Media (Film Production) at UCL.
 
 <p align="center">
   <img src="assets/banner.gif" alt="" width="450">

@@ -21,9 +21,6 @@ I work in marketing, audience insight and digital media, with a background in de
 
 <p align="center"> "𝔖𝔱𝔞𝔶 𝔠𝔲𝔯𝔦𝔬𝔲𝔰. 𝔖𝔱𝔞𝔶 𝔰𝔱𝔯𝔞𝔫𝔤𝔢. 𝔐𝔞𝔨𝔢 𝔰𝔬𝔪𝔢𝔱𝔥𝔦𝔫𝔤 𝔦𝔫𝔱𝔢𝔯𝔢𝔰𝔱𝔦𝔫𝔤."
 
-<a id="contact"></a>
-
-<h3 align="center">✧ Contact</h3> <div align="center"> <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"> <img src="https://img.shields.io/badge/LinkedIn-B3122D?style=flat&logo=linkedin&logoColor=white" /> </a> <a href="mailto:work.georgiajayy@gmail.com"> <img src="https://img.shields.io/badge/Email-8B0F24?style=flat&logo=gmail&logoColor=white" /> </a> </div> <p align="center">based between Birmingham and London</p>
 
 <div align="center">
 <table>

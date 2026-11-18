@@ -16,23 +16,7 @@
 
 <h3 align="center">✦ About</h3>
 
-I work in marketing, audience insight and digital media, with a background in film production, content development and cultural research. I'm interested in how people connect with brands, content and communities, and how scenes that start on the margins end up shaping the mainstream.
-
-I studied Media at UCL, specialising in Film Production, and I back up creative instinct with data. I'm teaching myself to code because I like building things as well as thinking about them.
-
-ts
-const me = {
-  role: "Marketer + data analyst",
-  focus: [
-    "audience behaviour",
-    "trend spotting",
-    "cultural research",
-    "digital content",
-  ],
-  into: ["underground scenes", "horror", "experimental cinema", "fashion"],
-  principle: "weird is a strategy",
-  basedIn: ["Birmingham", "London"],
-};
+I work in marketing, audience insight and digital media, with a background in film production, content development and cultural research. I'm interested in how people connect with brands, content and communities, and how scenes that start on the margins end up shaping the mainstream. I studied Media at UCL, specialising in Film Production, and I back up creative instinct with data. I'm teaching myself to code because I like building things as well as thinking about them.
 
 <p align="center"> "𝔖𝔱𝔞𝔶 𝔠𝔲𝔯𝔦𝔬𝔲𝔰. 𝔖𝔱𝔞𝔶 𝔰𝔱𝔯𝔞𝔫𝔤𝔢. 𝔐𝔞𝔨𝔢 𝔰𝔬𝔪𝔢𝔱𝔥𝔦𝔫𝔤 𝔦𝔫𝔱𝔢𝔯𝔢𝔰𝔱𝔦𝔫𝔤."
 

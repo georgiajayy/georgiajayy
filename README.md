@@ -18,6 +18,14 @@
 
 I work in marketing, audience insight and digital media, with a background in development and cultural research. I'm interested in how people connect with brands, content and communities, and how scenes that start on the margins end up shaping the mainstream. I studied Media at UCL, specialising in Film Production, and I back up creative instinct with data and code because I like building things as much as thinking.
 
+<details> <summary><b>Past work</b></summary> <br>
+Bullion Productions – branded productions and content
+COPA90 – researched and developed football content that passed 1M+ views on TikTok and Instagram
+Google Pixel – branded content production
+Projects connected to Arsenal FC, BBC Sport, Nike and the British Film Institute
+Grew a football charity's social following by 2,000+ in under three months
+</details>
+
 <p align="center"> "𝔖𝔱𝔞𝔶 𝔠𝔲𝔯𝔦𝔬𝔲𝔰. 𝔖𝔱𝔞𝔶 𝔰𝔱𝔯𝔞𝔫𝔤𝔢. 𝔐𝔞𝔨𝔢 𝔰𝔬𝔪𝔢𝔱𝔥𝔦𝔫𝔤 𝔦𝔫𝔱𝔢𝔯𝔢𝔰𝔱𝔦𝔫𝔤."
 
 <div align="center">

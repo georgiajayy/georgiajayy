@@ -6,6 +6,10 @@
 
 <p align="center"><em>Collecting the weird and the alternative. Turning it into strategy.</em></p>
 
+<p align="center">
+  <img src="assets/banner.gif" alt="Creative banner" width="450">
+</p>
+
 ---
 
 ### About

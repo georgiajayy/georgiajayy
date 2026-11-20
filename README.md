@@ -38,6 +38,7 @@ UCL Media graduate interested in the relationship between culture, people and br
   <img src="https://img.shields.io/badge/Power%20BI-000000?style=flat-square&logo=powerbi&logoColor=white" alt="Power BI">
   <img src="https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript">
+  <img src="https://img.shields.io/badge/UX/UI-000000?style=flat-square&logo=ux/ui&logoColor=white" alt="UX/UI">
 </p>
 
 ### Connect

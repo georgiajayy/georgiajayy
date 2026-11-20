@@ -2,7 +2,7 @@
   <img src="assets/logo-v2.png" alt="Georgia Jayy" width="280">
 </p>
 
-<h3 align="center">Marketing · Creative Strategy · Cultural Research</h3>
+<h3 align="center">Brand & Creative Strategy · Cultural Research · Account Management</h3>
 
 <p align="center"><em>Collecting the weird and the alternative. Turning it into strategy.</em></p>
 
@@ -16,16 +16,18 @@
 
 UCL Media graduate interested in the relationship between culture, people and brands. I explore consumer behaviour, emerging subcultures and digital communities, using research and data to shape audience-led ideas and strategy.
 
-### Selected work
+### Selected Work
 
-- **The Business of Rebellion** — Independent research into counterculture, music and consumer behaviour.
-- **Pinterest** — Gen Z consumer behaviour and cultural insights.
-- **SheStats Analytics Lab** — Data-informed sports content strategy.
-- **Beats by Dre** — Advertising and creative strategy.
+#### `01 / Brand, Strategy & Cultural Research`
+* **Pinterest** — Jobs-to-be-Done survey (`30+ responses`) uncovering Gen Z discovery habits and advertising opportunities.
+* **Beats by Dre** — Deconstructing music-led cultural positioning, brand storytelling, and cross-platform audience affinity.
+* **The Business of Rebellion** — Independent research into counterculture, music scenes, and commercial brand opportunities.
 
-### Skills
+#### `02 / Data Stories, Code & Audience Analytics`
+* **Black Horror (1968–2025)** — Interactive horror casting game and cultural data story testing the classic trope across 27 films.
 
-Cultural research · Consumer behaviour · Audience insights · Marketing strategy
+### Core Focus
+`Brand & Creative Strategy` · `Cultural & Subcultural Research` · `Audience Insights` · `Campaign & Account Delivery`
 
 ### Toolkit
 

@@ -24,7 +24,8 @@ UCL Media graduate interested in the relationship between culture, people and br
 * **The Business of Rebellion** — Independent research into counterculture, music scenes, and commercial brand opportunities.
 
 #### `02 / Data Stories, Code & Audience Analytics`
-* **Black Horror (1968–2025)** — Interactive horror casting game and cultural data story testing the classic trope across 27 films.
+• Lionesses: Euro 2025 & Road to 2029 — Interactive Streamlit dashboard and animated data story unpacking England's Women's Euro 2025 win and Euro 2029 outlook through StatsBomb shot maps and xG analysis.
+• Black Horror (1968–2025) — Interactive horror casting game and cultural data story testing the classic trope across 27 films.
 
 ### Core Focus
 `Brand & Creative Strategy` · `Cultural & Subcultural Research` · `Audience Insights` · `Campaign & Account Delivery`

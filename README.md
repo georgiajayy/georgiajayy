@@ -2,9 +2,9 @@
   <img src="assets/logo-v2.png" alt="Georgia Jayy" width="280">
 </p>
 
-<h3 align="center">Brand & Creative Strategy · Cultural Research · Account Management</h3>
+<h3 align="center">Media, Culture & Tech · Research & Analytics</h3>
 
-<p align="center"><em>Collecting the weird and the alternative. Turning it into strategy.</em></p>
+<p align="center"><em>Collecting the weird and the alternative. Turning it into work that moves people.</em></p>
 
 <p align="center">
   <img src="assets/banner.gif" alt="Creative banner" width="450">

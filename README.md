@@ -13,7 +13,7 @@
 ---
 
 ### About
-UCL Media graduate blending cultural insight, creative strategy, and technical problem-solving. I look at how subcultures and digital communities move, combining audience research and creative storytelling with SQL, Python, C, and data tools to build and test ideas.
+UCL Media graduate working across cultural insight, creative strategy, and technology. I explore how subcultures and digital communities shape behaviour, combining audience research and creative thinking with SQL, Python, C, and data tools to investigate ideas, uncover patterns, and build solutions.
 
 ### Toolkit
 

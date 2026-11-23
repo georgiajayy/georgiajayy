@@ -16,20 +16,6 @@
 
 UCL Media graduate interested in the relationship between culture, people and brands. I explore consumer behaviour, emerging subcultures and digital communities, using research and data to shape audience-led ideas and strategy.
 
-### Selected Work
-
-#### `01 / Brand, Strategy & Cultural Research`
-* **Pinterest** — Jobs-to-be-Done survey (`30+ responses`) uncovering Gen Z discovery habits and advertising opportunities.
-* **Beats by Dre** — Deconstructing music-led cultural positioning, brand storytelling, and cross-platform audience affinity.
-* **The Business of Rebellion** — Independent research into counterculture, music scenes, and commercial brand opportunities.
-
-#### `02 / Data Stories, Code & Audience Analytics`
-* **Lionesses: Euro 2025 & Road to 2029** — Interactive Streamlit dashboard and animated data story unpacking England's Women's Euro 2025 win and Euro 2029 outlook through StatsBomb shot maps and xG analysis.
-* **Black Horror (1968–2025)** — Interactive horror casting game and cultural data story testing the classic trope across 27 films.
-
-### Core Focus
-`Brand & Creative Strategy` · `Cultural & Subcultural Research` · `Audience Insights` · `Campaign & Account Delivery`
-
 ### Toolkit
 
 <p>

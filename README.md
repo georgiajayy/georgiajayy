@@ -13,8 +13,7 @@
 ---
 
 ### About
-
-UCL Media graduate interested in the relationship between culture, people and brands. I explore consumer behaviour, emerging subcultures and digital communities, using research and data to shape audience-led ideas and strategy.
+UCL Media graduate blending cultural insight, creative strategy, and technical problem-solving. I look at how subcultures and digital communities move—combining audience research and creative storytelling with SQL, Python, C, and data tools to build and test ideas.
 
 ### Toolkit
 
